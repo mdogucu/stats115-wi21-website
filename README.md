@@ -1,5 +1,5 @@
 ## Stats 115 
-<img src="img/stats-115-logo.svg" alt="Stats 115 logo" width="150" align = "right"/>
+<img src="img/stats-115-logo.png" alt="Stats 115 logo" width="150" align = "right"/>
 
 
   
