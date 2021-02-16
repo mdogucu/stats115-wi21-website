@@ -1,30 +1,28 @@
-## ICS 80
-<img src="img/ids-logo.png" alt="introdata.science logo with a human figure juggling charts, a computer, a database and a book" width="150" align = "right"/>
+## Stats 115 
+<img src="img/stats-115-logo.png" alt="Stats 115 logo" width="150" align = "right"/>
 
 
   
-### Introduction Data Science 
+### Introduction to Bayesian Data Analysis 
 University of California Irvine 
 
-Winter 2021 
+Winter 2021
 
 [Dr. Mine Dogucu](https://minedogucu.com)  
 
-    
 <hr>
 
-This course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices. 
+Basic Bayesian concepts and methods with emphasis on data analysis. Special emphasis on specification of prior distributions. Includes linear, logistic, and Poisson regression. Analyses are performed using Stan with rstan package in R. 
 
-Course website is hosted at [introdata.science](https://introdata.science).
+Course website is hosted at [stats115.com](https://stats115.com).
 
 <hr>
 
 **Students** if you see anything missing or broken links please feel free to file an issue in this repo or let me know. Note that this is a public repo so if you create an issue it would be publicly be available. If you are concerned about privacy you can directly email me.
 
-**Instructors** if you are planning to use any of the website design or resources (except the videos) feel free to do so but please attribute accordingly. 
+**Instructors** if you are planning to use any of the website design or resources feel free to do so but please attribute accordingly. 
 
-Everything on this website except the videos are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+This work is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 <img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="logo for CC-NC-SA 4 license"/>
 
-The videos are copyrighted and all rights are reserved.
