@@ -5,6 +5,7 @@ utils
 grDevices
 graphics
 stats
+bayesrules
 tidyverse
 ggplot2
 tibble
@@ -14,6 +15,8 @@ purrr
 dplyr
 stringr
 forcats
+janitor
+ggforce
+gridExtra
 StanHeaders
 rstan
-bayesplot
